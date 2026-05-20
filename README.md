@@ -5,9 +5,9 @@ Cette **collection** regroupe plusieurs exemples de Dockerfile simples pour illu
 
 ## Objectifs du repository
 
-- Montrer des patterns de base pour écrire des Dockerfile propres et reproductibles. [github]
-- Proposer des exemples pour différents types d’applications (web, binaires, scripts, etc.). [github]
-- Servir de support pour des ateliers/TP autour de Docker et de l’Infrastructure as Code. [github]
+- Montrer des patterns de base pour écrire des Dockerfile propres et reproductibles. 
+- Proposer des exemples pour différents types d’applications (web, binaires, scripts, etc.). 
+- Servir de support pour des ateliers/TP autour de Docker et de l’Infrastructure as Code. 
 
 ## Structure du projet
 
@@ -64,6 +64,6 @@ docker run --rm -d -p 8080:80 webapache-exemple
 
 ## Auteur
 
-- Repository maintenu par **Madi Toumani Benmohamed**. [github](https://github.com/Madi-Toumani-benmohamed/Iac-Dockerfile-Exemple)
+- Repository maintenu par **Madi Toumani Benmohamed**. 
 
-N’hésitez pas à forker le projet, ouvrir des issues ou proposer des pull requests pour ajouter d’autres exemples de Dockerfile. [github](https://github.com/Madi-Toumani-benmohamed/Iac-Dockerfile-Exemple)
+N’hésitez pas à forker le projet, ouvrir des issues ou proposer des pull requests pour ajouter d’autres exemples de Dockerfile. 
